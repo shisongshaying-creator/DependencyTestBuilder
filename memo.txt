@@ -1,3 +1,17 @@
-https://github.com/lunardoggo/CSharpBeginnerProjects?utm_source=chatgpt.com
+https://github.com/lunardoggo/CSharpBeginnerProjects
 
 https://github.com/dotnet/aspnetcore
+
+https://github.com/dnSpy/dnSpy
+
+https://github.com/icsharpcode/ILSpy
+
+https://github.com/dotnet/roslyn
+↑
+﻿using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.CSharp;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+https://github.com/dotnet/roslyn/tree/main/src/Compilers/CSharp/Portable/Syntax
+
+
+https://github.com/microsoft/MSBuildLocator
