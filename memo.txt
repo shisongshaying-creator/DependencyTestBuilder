@@ -1,0 +1,3 @@
+https://github.com/lunardoggo/CSharpBeginnerProjects?utm_source=chatgpt.com
+
+https://github.com/dotnet/aspnetcore
